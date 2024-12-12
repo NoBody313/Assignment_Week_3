@@ -1,5 +1,5 @@
-# Week-1 Introduction to Android Development
-Aplikasi ini adalah tugas pada Week-3 Membuat tampilan Navbar dan menggunakan custom font. Pada tugas ini saya menggunaka ```Binding``` untuk mempermudah pemanggilan ```id``` pada tampilan layout.
+# Week-3 Advanced UI Components and Styling
+Aplikasi ini adalah tugas pada Week-3 Membuat tampilan Navbar dan menggunakan custom font.
 
 ## Cara Menjalankan
 1. Clone repo ini.
@@ -17,5 +17,6 @@ Pada halaman ini terdapat tiga tombol yaitu Home, Profile, dan Setting yang masi
 
 ---
 
-![Home Page](https://github.com/user-attachments/assets/a596038a-943c-4d68-9be6-46999d298331)
+![Home Page](https://github.com/user-attachments/assets/2e61984b-e51a-45f4-b1b7-e6660e12b36e)
+
 
